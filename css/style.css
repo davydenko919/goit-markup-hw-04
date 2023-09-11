@@ -481,6 +481,15 @@ ul, ol {
   margin-right: 120px;
 }
 
+
+.footer-text-container{
+  margin-right: 120px;
+}
+
+.footer-social-container{
+
+}
+
 .page-footer {
   background: var(--navyblue, #2e2f42);
   padding: 100px 0;
@@ -515,4 +524,11 @@ ul, ol {
 
 .footer-logo-sekond-color {
   color: var(--cloud, #f4f4fd);
+}
+
+.footer-social-text{
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
