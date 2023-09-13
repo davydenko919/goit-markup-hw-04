@@ -27,6 +27,11 @@ p{
   margin: 0;
 }
 
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 .container {
   width: 1158px;
   margin: 0 auto;
